@@ -12,3 +12,6 @@ ImageMagick (Imagick) bindings for PHP
 Leaflet
 Esri Leaflet
 jQuery
+
+# Usage
+To-Do
